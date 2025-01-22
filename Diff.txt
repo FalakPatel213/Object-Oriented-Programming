@@ -1,0 +1,19 @@
+Diff between constructor and Method
+
+    Constructor                |       Method                   |
+-------------------------------|--------------------------------|
+# Used to create and           | # Used to execute certain      |
+  initialize an object.        |   structure.                   |
+-------------------------------|--------------------------------|                              
+# Constructor is invoked       | # To be invoked during program | 
+  implimently by the system.   |   code                         |
+-------------------------------|--------------------------------
+# Is invoked when new keyword  | # Invoked when it is
+  is used                      |   called.
+-------------------------------|--------------------------------
+# Can't have return type.      | # Have return type
+-------------------------------|--------------------------------                              
+# Same name as of that         | # Can't be same name
+  class name.                  |
+-------------------------------|--------------------------------                              
+# Can't be inherited.          |  # Can be inherited
