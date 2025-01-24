@@ -1,0 +1,8 @@
+|  Access Modifier  |  Within class  |  Within package  |  Outside package  |   Outside package  |
+|                   |                |                  |                   |    by subclass     |
+|-------------------|----------------|------------------|-------------------|--------------------|
+|  Private          |      Y         |        N         |         N         |         N          | 
+|  Protected        |      Y         |        Y         |         N         |         Y          |
+|  Public           |      Y         |        Y         |         Y         |         Y          |  
+|  Default          |      Y         |        Y         |         N         |         N          |
+|-------------------|----------------|------------------|-------------------|--------------------|
