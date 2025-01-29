@@ -1,0 +1,17 @@
+Difference between Abstraction and Encapsulation.
+
+        Abstraction                         Encapsulation
+
+# Abstraction is a feature of        # It hides the code and data
+  OOPs that hides the                  so data can be protected
+  unneccessary details but             from outside world.
+  shows the essential info.
+
+# Solves issues at design            # Solves in issue at
+  level.                               implementation level.
+
+# implemented using abstract         # Implemented by using access  
+  classes & interface.                 modifiers.
+
+# Use abstract class &               # Use getter & setter method. 
+  interface

@@ -1,0 +1,30 @@
+Difference between String and String Buffer.
+
+      String                              String Buffer
+
+# It is Immutable                     # It is mutable.
+
+# Slow & Consumes more                # Fast & Consumes less
+  memory                                memory.
+
+# String class overrides              # Doesn't overrides the
+  equals() mothod of Object             equals() mothod of Object
+  class                                 class.
+
+# String class is slower              # Faster.
+  while performing
+  concatanation opration.
+
+---------------------------------------------------------------------------------------
+
+Difference between Stirng Buffer and String Builder.
+
+    String Buffer                             String Builder
+
+# String Buffer is synchronized           # String Builder is non-synchronized
+  (thread safe). It means two               (not Thread safe).
+  threads can't call the methods
+  of String Buffer simultaniously.
+
+# Less Efficiant.                         # More Efficiant.
+

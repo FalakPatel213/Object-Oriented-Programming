@@ -1,0 +1,21 @@
+     Chapter 12 - Concurrency
+
+# Advantages of Java Multithreading
+   1. It doesn't block the user.
+   2. Can perform many operations togather.
+   3. Threads are independent.
+
+
+# Thread life-cycle
+
+  New ------> Runable ------> Running ------> Terminate
+                ^                | 
+                |                |
+                ---- Blocked <----
+                  (Non removable)
+
+
+Chapter 12 code files : 
+    MainThreead1.java
+    MainThreead2.java
+    ExamplePrint.java
