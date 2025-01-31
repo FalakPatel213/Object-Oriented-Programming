@@ -1,0 +1,10 @@
+Which is the super class of every class in java? List out its imp methods.
+
+# Object class is the super(parent) class of every class.
+# Methods :~ 
+    toString();
+    hashcode();
+    equals(Object obj);
+    getClass();
+    finalize();
+    clone();
