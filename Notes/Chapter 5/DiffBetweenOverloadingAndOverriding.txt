@@ -1,0 +1,19 @@
+Difference between Method Overloading and Method Overriding.
+
+
+    Method Overloading                             Method Overriding
+
+# Used to increase the readability          # Used to provide the specific
+  of program.                                 implementation of the method that
+                                              is already provided by its super class.
+
+# Performed within class                    # Occurs in two classes that have IS-A
+                                              (inheritance) relationship.
+
+# Parameter must be Different.              # Parameter must be same.
+           or
+  Some number of Parameter with
+  diff type.
+
+# Ex. of the compile time                   # Ex. of the runtime 
+  polymorphism.                               polymorphism.
