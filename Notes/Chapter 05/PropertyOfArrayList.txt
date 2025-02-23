@@ -1,0 +1,10 @@
+            Chapter 5
+
+# Property of Arraylist
+
+1. Index based data struncture.
+2. Can store different datatype(hetrogeneous).
+3. Store duplicate value.
+4. Any number of null value.
+5. Follow insurtion order.
+6. Arraylist are non-synchronized.
