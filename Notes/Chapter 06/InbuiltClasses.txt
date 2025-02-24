@@ -1,0 +1,21 @@
+                                         Chapter 6
+
+                                          Object
+                                            |
+                                        Throwable
+                                            |
+        --------------------------------------------------------------------------------------------------
+        |                                                                                                |
+    Exception                                                                                          Error
+        |                                                                                               |- Vartual
+    ----------------------------------------------------------------------------------                  |  Mechine
+    |                                                 |                              |                  |  Error
+Runtime Exception                                 IOExeption                     SQLExeption            |
+  |- IllegalArgumentExeption                        |- FileNotFoundExeption                             |- I/O Error
+  |- NumberFormatExeption                           |- EOfExeption
+  |- InputMismatchExeption
+  |- ArithmeticExeption
+  |- NullPointerExeption
+  |- IndexOutOfBounfExeption
+        |- ArrayIndexOutOfBoundExeption
+        |- StringIndexOutOfBoundExeption
