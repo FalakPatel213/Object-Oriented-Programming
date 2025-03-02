@@ -1,0 +1,12 @@
+Abstract - Hiding implementation
+
+Implementing abstract :~
+
+1. abstract class [0% to 100%]
+2. Interface [100%]
+
+# An abstract class must be declared with an abstract keyword.
+# It can have abstract and non-abstract(concrete method) methods.
+# Abstract methods are non-static and must be overridden by subclasses.
+# It can have constructors and static methods also.
+# Keyword final or static cannot be used with an abstract method.
