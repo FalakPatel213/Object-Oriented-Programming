@@ -1,0 +1,11 @@
+Chapter 6...
+
+Interface
+
+# The interface in Java is a Mechanism to achieve total abstraction.
+# There can only abstract methods in Java interface.
+# It is used to achieve abstraction & multiple inheritance in Java.
+# We can not create an instance of interface.
+# Class can implement more than one interface.
+# Interface cannot have constructor in Java.
+# All methods are public & abstract(by default) & all field are public, static & final(by default).
