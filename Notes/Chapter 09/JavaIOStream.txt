@@ -1,0 +1,38 @@
+                          Chapter 9 
+
+
+                           Stream
+                             |
+    --------------------------------------------------
+    |                                                |
+Byte Stream                                  Character Stream
+(Binary I/O)                                     (Text I/O)
+  (8 Bits)                                       (16 Bits)
+    |- File Input/Output Stream                      |- File Reader/Writer
+    |- Buffer Input/Output Stream                    |- Buffer Reader/Writer
+    |- Data                                          |- Input Stream Reader/Output Stream Writer
+    |- Object
+
+
+        Byte Stream                                      Character Stream
+
+# A Byte Stream will access the file          # A Character Stream will access
+  byte by byte.                                 Character by Character.
+
+# Using this you can store Characters,        # Using this you can read and write
+  videos, audios, images.                       text data only.
+
+# This handle data in bytes(8 bits).          # This handle data in 16 bits unicode.
+
+# Do not use any encoding.                    # Needs to be given the files encoding
+                                                in order to work properly.
+
+
+# Inbuilt methods
+
+Input Stream                            Output Stream
+
+1. int available();                     1. void write();
+2. int read();                          2. void write(byte[] b);
+3. int read(byte[] b);                  3. void flush();
+4. void close();                        4. void close();
