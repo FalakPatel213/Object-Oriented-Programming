@@ -1,0 +1,9 @@
+        Array                                       Colletion
+
+# Primitive object.                        # Only non Primitive object.
+
+# Homogeneous.                             # Hetrogeneous.
+
+# Size fin.                                # Size change during runtime.
+
+# Inbuilt feature of Java.                 # API which provide interface.

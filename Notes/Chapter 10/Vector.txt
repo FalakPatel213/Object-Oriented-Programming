@@ -1,0 +1,12 @@
+Vector   [Legacy class]
+
+# class vector implements List.
+# growable & resizable array.
+# indexed base DataStructure.
+# Store duplicate data.
+# Store multiple null value.
+# Follow insetion order.
+# Does not follow sorting order.
+# Synchronized collection.
+# Introduced in Java 1.0
+# Iterator Behaviour (Use Enumeration & Iterator).

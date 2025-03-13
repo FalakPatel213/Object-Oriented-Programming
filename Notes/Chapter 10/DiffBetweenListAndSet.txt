@@ -1,0 +1,14 @@
+        List                                 Set
+
+# Store data according index           # Store data according hash code
+  base.                                  value.
+
+# Duplicate.                           # Not allow Duplicate.
+
+# Any number of null value             # Single null value can be add.
+  can add.
+
+# Follow insertiion order.             # Not Follow insertiion order.
+
+# Get element bt Itrator,              # Get element by Itrator.
+  ListIterator.

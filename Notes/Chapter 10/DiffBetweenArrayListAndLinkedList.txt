@@ -1,0 +1,16 @@
+        Array List                                   Linked List
+
+# class ArrayList implements List {           # class LinkedList implements List, Dequeue {
+    // constructors                                 // constructors
+    // methods                                      // methods
+  }                                             }
+
+# Acts as list.                               # Acts as list, Dequeue.
+
+# Insertion / Deletion slow.                  # Fast.
+
+# Iteration performance - Fast.               # Slow.
+
+# Access time -> Fast O(1).                   # Slow O(n).
+
+# Contiguous momory allocation.               # Non-Contiguous memory allocation.
