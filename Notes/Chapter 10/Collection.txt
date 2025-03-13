@@ -1,0 +1,34 @@
+Collection 
+
+It is a single entity store multiple data.
+
+
+                            Collection
+                                |
+     ------------------------------------------------------------
+     |                                                          |
+Hetrogeneous                                               Homogeneous
+
+
+
+Collection framework :~
+        Set of predefined class and library that is used to store multiple data.
+
+
+
+                             
+                                                Iterable - I
+                                                   ^
+                                                   |
+                                               Collection - I
+                                                   ^
+                                                   |
+        -----------------------------------------------------------------------------------------------
+        |                                          |                                                  |
+       List - I                                   Queue - I                                        Set - I
+       |- ArrayList - C                           ^  ^                                              ^   ^
+       |- LinkedList - C   ---------------        |  ---------------                                |   |- Hash Set - C
+       |- Vector - Legacy class          |    Dequeue - I       Priority Queue - C                  |   |- Linked Set - C
+            |- Stack - Legacy class      |         ^                                                |
+                                         |---------|                                                |- Sorted Set - I
+                                              Array Dequeue                                               |- Tree Set - I 
