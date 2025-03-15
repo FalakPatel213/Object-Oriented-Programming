@@ -1,0 +1,13 @@
+        Queue
+
+# Priority queue class
+
+    1. add() -> Inserts the specified element to the queue. If the queue is full, it throws an exception.
+
+    2. offer() -> Inserts the specified element to the queue, If the queue is full, it returns false.
+
+    3. removes() -> Removes the specified element from the queue.
+
+    4. poll() -> returns & removes the head of the queue.
+
+

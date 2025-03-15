@@ -1,0 +1,7 @@
+            TreeSet
+
+1. Balanced Tree DataStructure.
+2. Not IndexBased DataStructure.
+3. Not follow insertion order.
+4. Follow sorting order.
+5. Homogeneous DataStructure.
