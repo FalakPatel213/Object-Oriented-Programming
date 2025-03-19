@@ -1,0 +1,16 @@
+            Iterator                                         Enumerator
+
+# You can only traverse the collection.            # You can remove an element of collection
+  You can't do modification to collection            while traversing it.
+  while traversing
+
+# JDK 1.0                                          # JDK 1.2
+
+# Use to traverse vector, stack.                   # Used to traverse ArrayList, LinkedList,
+                                                     HastSet.
+
+# Has MoveElements(), nextElement().               # Has Next(), next(), remove().
+
+# Fail safe.                                       # Fail fast.
+
+# Not safe, secure                                 # Safe and secure.
