@@ -1,0 +1,11 @@
+Color and Font class (To apply color in different method)
+
+1. Color c = Color.BLUE
+
+2. Color c = Color.rgb(0, 0, 255);
+   Color c = Color.rgb(0, 0, 255, 1.0);
+
+3. Color c = Color.hsb(270, 1.0, 1.0);             Hue, Satuaration, Brightness
+   Color c = Color.hsb(270, 1.0, 1.0, 1.0);
+
+4. Color c = new Color.color(0, 0, 1.0);
